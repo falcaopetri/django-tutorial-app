@@ -9,3 +9,6 @@ What I've done so far:
 	- Had some trouble to realize how I should create a superuser account on my Django app hosted on Heroku (finally found it at [Django Girls](https://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/heroku/#visit-your-application), just run `heroku run python manage.py createsuperuser`);
 - Synced the Heroku app and the GitHub repo (automatic building on new GitHub commits);
 - Finished part 3 of Tutorial
+- Finished part 4 of Tutorial
+	- Vote and Results working
+	- Using Generic Views
