@@ -13,3 +13,5 @@ What I've done so far:
 	- Vote and Results working
 	- Using Generic Views
 - Finished part 5 of Tutorial: Testing!
+- Implemented "Sort results page by number of votes":
+	- Learned about order\_by(), QuerySet, and Meta class of Models
