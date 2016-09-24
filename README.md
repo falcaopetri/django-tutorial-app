@@ -12,3 +12,4 @@ What I've done so far:
 - Finished part 4 of Tutorial
 	- Vote and Results working
 	- Using Generic Views
+- Finished part 5 of Tutorial: Testing!
