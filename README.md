@@ -15,3 +15,5 @@ What I've done so far:
 - Finished part 5 of Tutorial: Testing!
 - Implemented "Sort results page by number of votes":
 	- Learned about order\_by(), QuerySet, and Meta class of Models
+- Finished part 6 of Tutorial: static files
+	- Skipped image background customization
