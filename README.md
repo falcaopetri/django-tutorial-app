@@ -17,3 +17,4 @@ What I've done so far:
 	- Learned about order\_by(), QuerySet, and Meta class of Models
 - Finished part 6 of Tutorial: static files
 	- Skipped image background customization
+- Finished part 7 of Tutorial
